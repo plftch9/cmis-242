@@ -1,0 +1,1 @@
+MusicCD [id = 1775, title = Master of Puppets, year = 1986, minutes = 55, available = true]
